@@ -1,0 +1,9 @@
+bin
+document_embeddings.db
+etc
+include
+lib
+lib64
+share
+.env
+pyvenv.cfg
